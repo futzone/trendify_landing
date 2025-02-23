@@ -1,4 +1,3 @@
-```md
 # 🚀 Do‘konlar uchun ERP & CRM tizimi – Landing Page  
 
 Bu loyiha **do‘konlarni avtomatlashtirish tizimi** uchun yaratilgan **Next.js** asosidagi **Landing Page** hisoblanadi. Sayt biznes jarayonlarini yaxshiroq tushuntirish, mijozlarni jalb qilish va platformani taqdim etish uchun ishlab chiqilgan.  
@@ -20,23 +19,23 @@ Bu loyiha **do‘konlarni avtomatlashtirish tizimi** uchun yaratilgan **Next.js*
 ## 🚀 O‘rnatish va Ishga Tushirish  
 
 1️⃣ **Repodan nusxa olish:**  
-```sh
-git clone https://github.com/username/repo-name.git
-cd repo-name
+```sh  
+git clone https://github.com/futzone/trendify_landing.git
+cd trendify_landing
 ```
 
 2️⃣ **Kerakli paketlarni o‘rnatish:**  
-```sh
-npm install
-# yoki
-yarn install
+```sh  
+npm install  
+# yoki  
+yarn install  
 ```
 
 3️⃣ **Lokal serverni ishga tushirish:**  
-```sh
-npm run dev
-# yoki
-yarn dev
+```sh  
+npm run dev  
+# yoki  
+yarn dev  
 ```
 
 Sayt **http://localhost:3000** da ishga tushadi.  
@@ -44,14 +43,11 @@ Sayt **http://localhost:3000** da ishga tushadi.
 ## 🔧 Deploy qilish  
 Loyihani **Vercel** yoki **Netlify** orqali osongina deploy qilish mumkin.  
 Vercel orqali deploy qilish uchun:  
-```sh
-vercel
+```sh  
+vercel  
 ```
 
 ## 🎯 Xulosa  
 Bu loyiha do‘konlar uchun ERP & CRM tizimini taqdim etish va mijozlarni jalb qilish uchun ishlab chiqilgan. Agar sizda taklif yoki muammolar bo‘lsa, bemalol **Pull Request** yoki **Issue** qoldiring.  
 
-📩 **Aloqa**: [email@example.com](mailto:email@example.com)  
-🌐 **Demo**: [yourwebsite.com](https://yourwebsite.com)  
-```  
- 
+📩 **Aloqa**: [qahhorovzamon@gmail.com](mailto:qahhorovzamon@gmail.com)  
