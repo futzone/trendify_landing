@@ -1,43 +1,57 @@
-Kraftbase Assignment 
+```md
+# 🚀 Do‘konlar uchun ERP & CRM tizimi – Landing Page  
 
-Huly.io Clone 
+Bu loyiha **do‘konlarni avtomatlashtirish tizimi** uchun yaratilgan **Next.js** asosidagi **Landing Page** hisoblanadi. Sayt biznes jarayonlarini yaxshiroq tushuntirish, mijozlarni jalb qilish va platformani taqdim etish uchun ishlab chiqilgan.  
 
-Original Site: https://huly.io/
+## 🛠 Texnologiyalar  
+- **Next.js 14** – Tezkor va SEO-friendly React framework  
+- **Tailwind CSS** – Zamonaviy va moslashuvchan UI dizayn  
+- **Framer Motion** – Animatsiyalar va interaktivlik  
+- **TypeScript** – Ishonchli va barqaror kod  
 
-Deployed Site: https://kraftbase-huly-io-clone.vercel.app/
+## ⚡ Funksiyalar  
+- 🔹 Chiroyli va interaktiv dizayn  
+- 🔹 Mobil moslashuvchan (Responsive)  
+- 🔹 SEO optimizatsiya qilingan  
+- 🔹 Tezkor yuklanish va samarali ishlash  
+- 🔹 Kontaktlar va CTA (Call-To-Action) tugmalari  
+- 🔹 Animatsiyalar va jonli effektlar  
 
-### Hero Section
+## 🚀 O‘rnatish va Ishga Tushirish  
 
-Completed the Navbar and styled it properly using flex and in the navigation for community and resources used shadcn navigation menu component.Mobile responsive hamburger is also shown properly
+1️⃣ **Repodan nusxa olish:**  
+```sh
+git clone https://github.com/username/repo-name.git
+cd repo-name
+```
 
-Due to lack of asset, i fetched the video of the background animation from their site and used it as a background by giving it a respective z-index and arranged the image inside the block accordingly. It may not be perfect on medium screen but on large and small screen it is perfect. 
+2️⃣ **Kerakli paketlarni o‘rnatish:**  
+```sh
+npm install
+# yoki
+yarn install
+```
 
-Added infinite scrolling of Hero footer to mobile screen only 
+3️⃣ **Lokal serverni ishga tushirish:**  
+```sh
+npm run dev
+# yoki
+yarn dev
+```
 
-### Bento Grid 
+Sayt **http://localhost:3000** da ishga tushadi.  
 
-Added the respective font Martel Sans to the heading and then designed the bento grid using grid and col span where small screen had a span of 1 medium screen had a span of 2 and large screen had a span of 3. gave one card a col span of 1 and another card a col span of 2 to maintain 1:2 ratio and below in a similar manner maintained a 2:1 ratio. Again due to lack of assets used a similar video in all 4 cards.
+## 🔧 Deploy qilish  
+Loyihani **Vercel** yoki **Netlify** orqali osongina deploy qilish mumkin.  
+Vercel orqali deploy qilish uchun:  
+```sh
+vercel
+```
 
-### Work together like in the office
+## 🎯 Xulosa  
+Bu loyiha do‘konlar uchun ERP & CRM tizimini taqdim etish va mijozlarni jalb qilish uchun ishlab chiqilgan. Agar sizda taklif yoki muammolar bo‘lsa, bemalol **Pull Request** yoki **Issue** qoldiring.  
 
-Again maintained a similar approach due to not having assets used the same video and gave it a border to make it look similar i was tying to add the background animation but was unable to do so, so i skipped it,
-maintained a flex for all the 3 icons below it.
-
-### sync with github
-
-added a proper background border gradient to the image and then performed similar flex as the above 3 icons in the work together section 
-
-### huly metabrain
-
-here i maintained a grid col span of 5 in larger screen and 2 in medium and 1 in smaller. 
-
-wasnt able to merge the two divs like the website due to not being expertise in framer motion but i tried to maintained the pattern as similar as possible.
-
-### knowledge at your fingertips 
-
-give it a typewriter effect in the heading wasnt able to add the tooltip and image as similar. 
-made similar change in the animation as i can do . skipped the card which was fixed on the screen on the left side as i dont know how to do that
-
-### footer
-
-again due to lack of assets i fetched this video from the site only and didnt find any backgrond gradient as similar to the site maintained similarity between them using flex. Footer was also made properly and mobile responsive
+📩 **Aloqa**: [email@example.com](mailto:email@example.com)  
+🌐 **Demo**: [yourwebsite.com](https://yourwebsite.com)  
+```  
+ 
