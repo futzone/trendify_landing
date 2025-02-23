@@ -17,14 +17,14 @@ const Movement = () => {
                                 <span>Boshlang!</span>
                             </h1>
                             <p className='text-sm lg:text-lg'>
-                            O‘zgarish – taraqqiyotning kalitidir. 
+                            O\u02BBzgarish – taraqqiyotning kalitidir. 
                             </p>
                             <p className='text-sm lg:text-lg'>
-                            Kim o‘zgarishga tayyor bo‘lsa, o‘sha g‘olib bo‘ladi.
+                            Kim o\u02BBzgarishga tayyor bo\u02BBlsa, o\u02BBsha g\u02BBolib bo\u02BBladi.
                             </p>
                             <div className='flex flex-col lg:flex-row gap-4 mt-4 items-center justify-center lg:justify-start lg:items-start'>
-                                <button className='bg-[#FFFFF6] px-3 py-2 text-black rounded-3xl w-[150px]'> O'ZGARISH </button>
-                                <button className='flex items-center justify-center bg-gradient-to-r from-[#9F3D33] to-black px-3 py-2 text-white rounded-3xl w-[150px]'><FaSlack/>  BOG'LANISH </button>
+                                <button className='bg-[#FFFFF6] px-3 py-2 text-black rounded-3xl w-[150px]'> O\u02BBZGARISH </button>
+                                <button className='flex items-center justify-center bg-gradient-to-r from-[#9F3D33] to-black px-3 py-2 text-white rounded-3xl w-[150px]'><FaSlack/>  BOG\u02BBLANISH </button>
                             </div>
                         </div>
                     </div>

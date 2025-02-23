@@ -11,7 +11,7 @@ const HeroSection = () => {
         <section className="mx-auto max-w-[1440px] px-6 lg:px-20 3xl:px-0 relative py-5 w-full flex flex-col">
             <div className='flex flex-col sm:text-2xl lg:text-6xl font-bold py-2 md:py-10 bg-clip-text text-transparent bg-gradient-to-b from-white via-gray-300 to-gray-400 relative z-20'>
                 <h1 className="">
-                    Do'koningizni avtomatlashtiring
+                    Do\u02BBkoningizni avtomatlashtiring
                 </h1>
                 <h1 className="">
                     samaradorlikni oshiring!
@@ -32,7 +32,7 @@ const HeroSection = () => {
                     whileHover={{ scale: 1.05 }}
                     className='bg-gradient-to-r from-white to-gray-200 text-black px-3 lg:px-6 py-2.5 rounded-full font-semibold text-sm w-full flex gap-2 justify-center items-center shadow-lg transition-all duration-300 hover:shadow-white/25 overflow-hidden relative'
                 >
-                    <span className="relative z-10">Hoziroq sinab ko'rish</span>
+                    <span className="relative z-10">Hoziroq sinab ko\u02BBrish</span>
                     <FaArrowRight className="text-xs lg:text-sm relative z-10" />
                     <motion.div
                         initial={{ scale: 0, x: -50 }}

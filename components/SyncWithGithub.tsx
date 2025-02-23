@@ -39,7 +39,7 @@ const SyncWithGithub = () => {
                             <div className="space-y-2">
                                 <h3 className="font-semibold text-3xl text-white">Real vaqtda buyurtmalar</h3>
                                 <p className="text-gray-600 text-sm leading-relaxed">
-                                    Buyurtmalarni qabul qilish, kuzatish va bajarish jarayonlarini istalgan joydan nazorat qiling. Hech bir buyurtma e'tibordan chetda qolmaydi!
+                                    Buyurtmalarni qabul qilish, kuzatish va bajarish jarayonlarini istalgan joydan nazorat qiling. Hech bir buyurtma e\u02BBtibordan chetda qolmaydi!
                                 </p>
                             </div>
                         </div>

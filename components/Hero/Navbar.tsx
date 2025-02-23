@@ -191,7 +191,7 @@ const Navbar = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Bog'lanish
+                    Bog\u02BBlanish
                     <FaPhone size={20} />
                 </Link>
                 <Link

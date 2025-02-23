@@ -24,12 +24,12 @@ const BentoGrid = () => {
 
                     <div className='flex flex-col lg:col-span-2 bg-black rounded-3xl p-6'>
                         <video className='w-full h-[200px] object-cover' src='/images/bento/waves.mp4' autoPlay loop muted />
-                        <p className='text-gray-400 mt-2'><span className='font-bold text-white'>Integratsiyalar.</span>ERP va CRM tizimlarimiz O‘zbekistondagi yirik banklar, Telegram botlar, SMS va Email xabarnomalari, hamda boshqa ko‘plab xizmatlar bilan integratsiya qilingan bo‘lib, biznesingizning har bir bosqichini avtomatlashtirish imkonini beradi.</p>
+                        <p className='text-gray-400 mt-2'><span className='font-bold text-white'>Integratsiyalar.</span>ERP va CRM tizimlarimiz O\u02BBzbekistondagi yirik banklar, Telegram botlar, SMS va Email xabarnomalari, hamda boshqa ko\u02BBplab xizmatlar bilan integratsiya qilingan bo\u02BBlib, biznesingizning har bir bosqichini avtomatlashtirish imkonini beradi.</p>
                     </div>
 
                     <div className='flex flex-col lg:col-span-1 bg-black rounded-3xl p-6'>
                         <video className='w-full h-[200px] object-cover' src='/images/bento/waves.mp4' autoPlay loop muted />
-                        <p className='text-gray-400 mt-2'> <span className='font-bold text-white'>Offline va online sotuv</span>Internet bo'lmaganda ham biznesingiz to'xtab qolmaydi. Tarmoqqa qayta ulangach, barcha ma'lumotlar avtomatik qayta birlashtiriladi!</p>
+                        <p className='text-gray-400 mt-2'> <span className='font-bold text-white'>Offline va online sotuv</span>Internet bo\u02BBlmaganda ham biznesingiz to\u02BBxtab qolmaydi. Tarmoqqa qayta ulangach, barcha ma\u02BBlumotlar avtomatik qayta birlashtiriladi!</p>
                     </div>
                 </div>
 
